@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Butter Chicken",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Chicken Curry",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Chicken Korma",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Chicken Saag",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Radda Chicken",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Karahi Chicken",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Achari Chicken",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Radda Chicken",
+        "price": "10.99",
+        "type": "mains chicken"
+    },
+    {
+        "name": "Mutton Saag",
+        "price": "10.99",
+        "type": "mains mutton"
+    },
+    {
+        "name": "Mutton Curry",
+        "price": "10.99",
+        "type": "mains mutton"
+    },
+    {
+        "name": "Mutton Radda",
+        "price": "10.99",
+        "type": "mains mutton"
+    },
+    {
+        "name": "Karahi Mutton",
+        "price": "10.99",
+        "type": "mains mutton"
+    },
+    {
+        "name": "Fish Curry",
+        "price": "10.99",
+        "type": "mains seafood"
+    },
+    {
+        "name": "Shrimp Masala",
+        "price": "10.99",
+        "type": "mains seafood"
+    },
+    {
+        "name": "Chicken Biriyani",
+        "price": "10.99",
+        "type": "mains biriyani"
+    },
+    {
+        "name": "Mutton Biriyani",
+        "price": "10.99",
+        "type": "mains biriyani"
+    },
+    {
+        "name": "Dal Makhani",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Channa Masala",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Saag",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Palak Paneer",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Shahi Paneer",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Paneer Tikka Masala",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Mutter Paneer",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Karahi Paneer",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": " Malai Kofta",
+        "price": "10.99",
+        "type": "mains veg"
+    },
+    {
+        "name": "Veg Biriyani",
+        "price": "10.99",
+        "type": "mains biriyani"
+    },
+    {
+        "name": "Plain Rice",
+        "price": "0",
+        "type": "sides"
+    },
+    {
+        "name": "Jeera Rice",
+        "price": "0",
+        "type": "sides"
+    },
+    {
+        "name": "Mix Veg Rice",
+        "price": "0",
+        "type": "sides"
+    },
+    {
+        "name": "Naan",
+        "price": "0",
+        "type": "sides"
+    },
+    {
+        "name": "Pop",
+        "price": "2",
+        "type": "extra"
+    },
+    {
+        "name": "Naan",
+        "price": "2",
+        "type": "extra"
+    },
+    {
+        "name": "Rice",
+        "price": "5.5",
+        "type": "extra"
+    }
+]
