@@ -6,7 +6,7 @@
  * ------------------------------------
  */
  
-$to    = "test@surjithctly.in"; // <--- Your email ID here
+$to    = "info@takeoutin.in"; // <--- Your email ID here
 
 
 /*
