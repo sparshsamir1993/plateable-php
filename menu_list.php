@@ -4,16 +4,6 @@
         $mains = "";
         foreach ($menuJson as $key => $value) {
             $item = "";
-            // $template = '<div class="menu-item col-sm-6 col-xs-12 starter dinner desserts">
-            //                 <div class="clearfix menu-wrapper">
-            //                     <h4>English asparagus</h4>
-            //                     <span class="price">$14.95</span>
-            //                     <div class="dotted-bg"></div>
-            //                 </div>
-            //                 <p>pellentesque enim. Aliquam tempor</p>
-            //             </div>';
-
-            
             $template = '<div class="menu-item col-sm-6 col-xs-12 '.$value->type.'">
                             <div class="clearfix menu-wrapper">
                                 <h4>'.$value->name.'</h4>
@@ -82,13 +72,13 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="./index.html">
+                        <a class="navbar-brand" href="./index.php">
                             <img src="img/nav-logo.png" alt="nav-logo">
                         </a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="menu_list.php">Menu</a></li>
                             <!-- <li class="dropdown">
                                 <a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
@@ -226,11 +216,12 @@
 
             <!-- Page Header -->
             <section class="page_header">
+                <div class="grey-overlay"></div>
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <h2 class="text-uppercase">Menu</h2>
-                            <p>Tomato is a delicious restaurant website template</p>
+                            <p>Choose from a variety of delicious food</p>
                         </div>
                     </div>
                 </div>
@@ -242,7 +233,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="page-header wow fadeInDown">
-                                <h1>List Style<small>These fine folks trusted the award winning restaurant.</small></h1>
+                                <h1>Food Menu<small></small></h1>
                             </div>
                         </div>
                     </div>
@@ -345,11 +336,11 @@
                             </div> -->
                         </div>
                         <div class="row">
-                            <div class="col-md-12">
+                            <!-- <div class="col-md-12">
                                 <div class="menu-btn">
                                     <a class="btn btn-default btn-lg" href="./menu_all.html" role="button">Explore our menu</a>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -383,10 +374,10 @@
                         <div class="col-md-4 col-sm-12">
                             <h1>About us</h1>
                             <p>Duis leo justo, condimentum at purus eu,Aenean sed dolor sem. Etiam massa libero, auctor vitae egestas et, accumsan quis nunc.Duis leo justo, condimentum at purus eu, posuere pretium tellus.</p>
-                            <a href="./about.html">Read more &rarr;</a>
+                            <!-- <a href="./about.html">Read more &rarr;</a> -->
                         </div>
                         <div class="col-md-4  col-sm-6">
-                            <h1>Recent post</h1>
+                            <!-- <h1>Recent post</h1>
                             <div class="footer-blog clearfix">
                                 <a href="./blog_right_sidebar.html">
                                     <img src="img/thumb8.png" class="img-responsive footer-photo" alt="blog photos">
@@ -400,7 +391,7 @@
                                     <p class="footer-blog-text">Daily special foods that you will going to love</p>
                                     <p class="footer-blog-date">29 may 2015</p>
                                 </a>
-                            </div>
+                            </div> -->
                         </div>
                         <div class="col-md-4  col-sm-6">
                             <h1>Reach us</h1>
@@ -436,16 +427,7 @@
                     </div>
                 </div>
 
-                <!-- Footer - Copyright -->
-                <div class="footer-copyrights">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-md-12">
-                                <p><i class="fa fa-copyright"></i> 2015.Tomato.All rights reserved. Designed with <i class="fa fa-heart primary-color"></i> by Surjithctly</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
             </section>
         </div>
 

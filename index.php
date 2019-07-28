@@ -53,13 +53,14 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="./index.html">
-                            <img src="img/nav-logo.png" alt="nav-logo">
+                        <a class="navbar-brand" href="./index.php">
+                            <!-- <img src="img/nav-logo.png" alt="nav-logo"> -->
+                            <span>Takeout-in</span>
                         </a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <!-- <li class="dropdown">
                                 <a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
                                 <ul class="dropdown-menu">
@@ -220,7 +221,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="page-header wow fadeInDown">
-                                <h1>the restaurant<small>A little about us and a breif history of how we started.</small></h1>
+                                <h1>the Idea<small>A little about us and a breif history of how we started.</small></h1>
                             </div>
                         </div>
                     </div>
@@ -230,16 +231,16 @@
                                 <div class="row">
                                     <div class="col-xs-12 hidden-sm about-photo">
                                         <div class="image-thumb">
-                                            <img src="img/thumb1.png" data-mfp-src="img/fullImages/pic1.jpg" class="img-responsive" alt="logo">
+                                            <img src="img/spices.jpg" data-mfp-src="img/fullImages/pic1.jpg" class="img-responsive  hgt-200 " alt="logo">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="col-sm-6 about-photo hidden-xs">
-                                        <img src="img/thumb2.png" data-mfp-src="img/fullImages/pic2.jpg" class="img-responsive" alt="logo">
+                                        <img src="img/food1.jpg" data-mfp-src="img/fullImages/pic2.jpg" class="img-responsive" alt="logo">
                                     </div>
                                     <div class="col-sm-6 about-photo hidden-xs">
-                                        <img src="img/thumb3.png" data-mfp-src="img/fullImages/pic3.jpg" class="img-responsive" alt="logo">
+                                        <img src="img/naan.jpg" data-mfp-src="img/fullImages/pic3.jpg" class="img-responsive" alt="logo">
                                     </div>
                                 </div>
                             </div>
@@ -252,7 +253,7 @@
                             <p>
                                 Ultrices eget justo. Nam purus lacus, efficitur eget laoreet sed, finibus nec neque. Cras eget enim in diam dapibus sagittis. In massa est, dignissim in libero ac, fringilla ornare.
                             </p>
-                            <img src="img/signature.png" alt="signature">
+                            <!-- <img src="img/signature.png" alt="signature"> -->
                         </div>
                     </div>
                 </div>
@@ -690,7 +691,7 @@
                         <div class="col-md-4 col-sm-12">
                             <h1>About us</h1>
                             <p>Duis leo justo, condimentum at purus eu,Aenean sed dolor sem. Etiam massa libero, auctor vitae egestas et, accumsan quis nunc.Duis leo justo, condimentum at purus eu, posuere pretium tellus.</p>
-                            <a href="./about.html">Read more &rarr;</a>
+                            <!-- <a href="./about.html">Read more &rarr;</a> -->
                         </div>
                         <div class="col-md-4  col-sm-6">
                             <!-- <h1>Recent post</h1>
