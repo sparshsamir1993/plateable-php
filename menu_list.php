@@ -73,7 +73,8 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="./index.php">
-                            <img src="img/nav-logo.png" alt="nav-logo">
+                            <!-- <img src="img/nav-logo.png" alt="nav-logo"> -->
+                            <span>Takeout-in</span>
                         </a>
                     </div>
                     <div id="navbar" class="navbar-collapse collapse">
@@ -345,7 +346,71 @@
                     </div>
                 </div>
             </section>
-
+            <section class="features">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="page-header wow fadeInDown">
+                                <h1 class="white">Order Now<small>Our service makes us the bes in town</small></h1>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row wow fadeInUp">
+                        <div class="col-md-4 col-sm-6">
+                            <a class="features-tile" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdTQfk-gUOhNuySK_uGArZQ38s_wWBS6oks0bJ-jZzxanx6dQ/viewform?usp=pp_url&entry.1257298964=0&entry.138944944=0&entry.1321232806=0&entry.453903816=0&entry.207747968=0&entry.122946592=0&entry.644678019=0&entry.1367381266=0&entry.33772779=0&entry.1782847053=0&entry.855796109=0&entry.121015151=0&entry.2092744528=0&entry.1054105907=0&entry.2026707774=0&entry.712098623=0&entry.1263505397=0&entry.780711546=0&entry.1565670256=0&entry.1373116995=0&entry.1134740381=0&entry.233504575=0&entry.655593170=0&entry.1235996775=0&entry.1406760706=0&entry.1028738381=0&entry.1454836335=0&entry.172639683=0&entry.823929563=0&entry.840197138=0">
+                                <div class="features-img">
+                                    <img src="img/tiffin.jpg" alt="" />
+                                </div>
+                                <div class="features-content">
+                                    <div class="page-header">
+                                        <h1>3 day</h1>
+                                    </div>
+                                    <!-- <p>Aenean suscipit vehicula purus quis iaculis. Aliquam nec leo nisi. Nam urna arcu, maximus eget ex nec, consequat pellentesque enim. Aliquam tempor fringilla odio, vel ullamcorper turpis varius eu.</p> -->
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <a class="features-tile" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSctD04Gowl4kIdQsLv2pC27XbB3KReeFl8b5QM-7hoMyPhBzQ/viewform?usp=pp_url&entry.1257298964=0&entry.138944944=0&entry.1321232806=0&entry.453903816=0&entry.207747968=0&entry.122946592=0&entry.644678019=0&entry.1367381266=0&entry.33772779=0&entry.1819038051=0&entry.392569033=0&entry.1653667122=0&entry.1782847053=0&entry.855796109=0&entry.552575174=0&entry.121015151=0&entry.2092744528=0&entry.1054105907=0&entry.2026707774=0&entry.712098623=0&entry.1263505397=0&entry.780711546=0&entry.1956020546=0&entry.1565670256=0&entry.1373116995=0&entry.1134740381=0&entry.233504575=0&entry.655593170=0&entry.1235996775=0&entry.1406760706=0&entry.1028738381=0&entry.1454836335=0&entry.172639683=0&entry.823929563=0&entry.840197138=0&entry.206304367=0&entry.1660530259=0&entry.1619362075=0&entry.970589046=0&entry.1692638586=0&entry.551018491=0&entry.1191240453=0">
+                                <div class="features-img">
+                                    <img src="img/tiffin.jpg" alt="" />
+                                </div>
+                                <div class="features-content">
+                                    <div class="page-header">
+                                        <h1>4 day</h1>
+                                    </div>
+                                    <!-- <p>Aenean suscipit vehicula purus quis iaculis. Aliquam nec leo nisi. Nam urna arcu, maximus eget ex nec, consequat pellentesque enim. Aliquam tempor fringilla odio, vel ullamcorper turpis varius eu.</p> -->
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-6">
+                            <a class="features-tile" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScsLIDfoFho26b_1_Cpq6JREuvMw46i_-ynlcjyAZrai7h8Xw/viewform?usp=pp_url&entry.1257298964=0&entry.138944944=0&entry.1321232806=0&entry.453903816=0&entry.207747968=0&entry.122946592=0&entry.644678019=0&entry.1367381266=0&entry.33772779=0&entry.1819038051=0&entry.392569033=0&entry.1653667122=0&entry.218948676=0&entry.1925329616=0&entry.1004153735=0&entry.1782847053=0&entry.855796109=0&entry.552575174=0&entry.121015151=0&entry.2092744528=0&entry.1054105907=0&entry.2026707774=0&entry.712098623=0&entry.1263505397=0&entry.780711546=0&entry.1956020546=0&entry.1565670256=0&entry.1373116995=0&entry.1134740381=0&entry.233504575=0&entry.655593170=0&entry.1235996775=0&entry.1406760706=0&entry.1028738381=0&entry.1454836335=0&entry.172639683=0&entry.823929563=0&entry.840197138=0&entry.206304367=0&entry.1660530259=0&entry.1619362075=0&entry.970589046=0&entry.1692638586=0&entry.551018491=0&entry.1191240453=0&entry.1754365652=0&entry.2049819649=0&entry.1971049934=0&entry.1386675131=0&entry.1552911093=0&entry.27528735=0&entry.372407190=0">
+                                <div class="features-img">
+                                    <img src="img/tiffin.jpg" alt="" />
+                                </div>
+                                <div class="features-content">
+                                    <div class="page-header">
+                                        <h1>5 day</h1>
+                                    </div>
+                                    <!-- <p>Aenean suscipit vehicula purus quis iaculis. Aliquam nec leo nisi. Nam urna arcu, maximus eget ex nec, consequat pellentesque enim. Aliquam tempor fringilla odio, vel ullamcorper turpis varius eu.</p> -->
+                                </div>
+                            </a>
+                        </div>
+                        <div class="col-md-4 col-sm-6 hidden visible-sm">
+                            <div class="features-tile">
+                                <div class="features-img">
+                                    <img src="img/thumb5.png" alt="" />
+                                </div>
+                                <div class="features-content">
+                                    <div class="page-header">
+                                        <h1>Serving with love</h1>
+                                    </div>
+                                    <p>Aenean suscipit vehicula purus quis iaculis. Aliquam nec leo nisi. Nam urna arcu, maximus eget ex nec, consequat pellentesque enim. Aliquam tempor fringilla odio, vel ullamcorper turpis varius eu.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
             <!-- subscribe -->
             <section class="subscribe">
                 <div class="container">

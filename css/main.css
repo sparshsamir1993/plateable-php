@@ -1272,8 +1272,11 @@ fieldset[disabled] .btn-default.active {
 .features .features-tile {
     background-color: #ffffff;
     margin-bottom: 30px;
+    display: block;
 }
-
+.navbar-brand{
+    line-height: 35px;
+}
 .features .features-tile .features-content {
     padding: 5px 25px 10px;
 }
@@ -4051,6 +4054,7 @@ textarea {
 
 .features-img {
     overflow: hidden;
+    height: 250px;
 }
 
 .features-img img {
