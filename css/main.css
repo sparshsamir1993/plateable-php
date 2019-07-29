@@ -3743,8 +3743,10 @@ article p {
 
 @media (max-width: 480px) {
     .mt-20-mobile{
-        margin-top: 20px;
-        
+        margin-top: 20px;   
+    }
+    .how-it-works .step-2{
+        padding-top: 0 !important;
     }
     .no-margin-right-mob{
         margin-right: 0;
