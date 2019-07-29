@@ -5,7 +5,8 @@ Version : 1.0
 Author  : Surjith S M
 URI     : http://themeforest.net/user/surjithctly
 
-
+//primary = #f9c56a
+//primary maroon = #f9c56a
 TABLE OF CONTENTS 
 ---------------------------------------------------
 
@@ -95,7 +96,14 @@ h6,
     text-align: center;
     font-weight: 800;
 }
-
+.flex-center{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.mb-20{
+    margin-bottom: 20px;
+}
 .small,
 small {
     font-family: "Josefin Sans", sans-serif;
@@ -574,7 +582,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .cart-item-desc a:hover {
-    color: #F9C56A;
+    color: #f9c56a;
 }
 
 .cart-item-price {
@@ -1330,7 +1338,12 @@ fieldset[disabled] .btn-default.active {
     margin-bottom: 50px;
     margin-top: 20px;
 }
-
+.w-1200{
+    width: 1200px;
+}
+.mr-20{
+    margin-right: 20px;
+}
 .menu-tags span,
 .menu-tags2 span,
 .menu-tags3 span,
@@ -1542,7 +1555,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .subscribe input {
-    border: 2px solid #F9C56A !important;
+    border: 2px solid #f9c56a !important;
     background: #FFF none repeat scroll 0% 0%;
     /* margin: 0px 20px; */
     width: 263px !important;
@@ -1557,6 +1570,23 @@ fieldset[disabled] .btn-default.active {
     -webkit-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
+}
+
+.footer-subscribe{
+    background-color: transparent;
+    padding: 0;
+}
+.footer-subscribe form{
+    float: left;
+    margin-top: 15px;
+}
+.footer-subscribe h1{
+    font-weight: 800;
+    color: #f9c56a;
+    font-size: 18px;
+    text-align: left;
+    margin: 60px 0px 26px;
+    line-height: 19px;
 }
 
 @media (max-width: 1200px) {
@@ -1982,7 +2012,7 @@ fieldset[disabled] .btn-default.active {
 }
 
 .contact-social a:hover {
-    background: #F9C56A;
+    background: #f9c56a;
     color: #262526;
 }
 
@@ -2359,7 +2389,7 @@ fieldset[disabled] .btn-default.active {
     color: #fff;
     content: counter(li-counter);
     counter-increment: li-counter;
-    background-color: #F9C56A;
+    background-color: #f9c56a;
 }
 
 
@@ -2370,7 +2400,7 @@ fieldset[disabled] .btn-default.active {
 .ingredients {
     padding: 27px 29px;
     margin-bottom: 40px;
-    border-top: 1px solid #F9C56A;
+    border-top: 1px solid #f9c56a;
     background-color: #f9f9f9;
 }
 
@@ -2428,7 +2458,7 @@ fieldset[disabled] .btn-default.active {
     display: block;
     width: 40%;
     height: 4px;
-    background-color: #F9C56A;
+    background-color: #f9c56a;
 }
 
 .progressbar .level-1 {
@@ -2523,7 +2553,7 @@ table {
 .post-format {
     width: 76px;
     height: 62px;
-    background: #F9C56A none repeat scroll 0% 0%;
+    background: #f9c56a none repeat scroll 0% 0%;
     font-size: 30px;
     color: #201F1E;
     line-height: 62px;
@@ -2840,7 +2870,7 @@ article p {
 }
 
 .comments-area .comment .comment-info a {
-    color: #F9C56A;
+    color: #f9c56a;
 }
 
 .comments-area .comment .comment-info span {
@@ -2987,7 +3017,7 @@ article p {
 }
 
 .product-info h4 a:hover {
-    color: #F9C56A;
+    color: #f9c56a;
 }
 
 .product-info .rc-ratings {
@@ -3119,7 +3149,7 @@ article p {
 }
 
 .cart-table tbody tr td a:hover {
-    color: #F9C56A;
+    color: #f9c56a;
 }
 
 .cart-table thead tr th,
@@ -3153,7 +3183,7 @@ article p {
 }
 
 .coupon button:hover {
-    background: #F9C56A;
+    background: #f9c56a;
     transition: .4s;
     color: #0a0a0a;
 }
@@ -3283,7 +3313,7 @@ article p {
 }
 
 .ma-address a {
-    color: #F9C56A;
+    color: #f9c56a;
 }
 
 .gallery-item img {
@@ -3916,7 +3946,7 @@ textarea {
 }
 
 #OT_searchWrapper select option:hover {
-    background: #F9C56A;
+    background: #f9c56a;
 }
 
 #OT_searchWrapper select {
@@ -4456,3 +4486,160 @@ textarea {
     position: relative;
 }
 
+/*-----------------------------------  
+How it works section
+-----------------------------------*/
+
+.how-it-works {
+    background-image: url(../img/city.png), url(../img/pattern.png);
+    background-repeat: repeat-x, repeat;
+    background-position: bottom, center;
+    padding: 90px 0;
+    position: relative;
+}
+
+.how-it-works:after {
+    position: absolute;
+    right: 20px;
+    top: -30px;
+    background: url(../img/peanuts.png);
+    width: 150px;
+    height: 51px;
+    content: "";
+}
+
+.how-it-works .text-xs-center>h2 {
+    color: #d8bea5;
+    margin-bottom: 50px;
+}
+
+.how-it-works-wrap h2 {
+    margin-bottom: 10px;
+    font-size: 21px;
+}
+
+.how-it-works-wrap>p {
+    font-weight: 300;
+}
+
+.how-it-works-steps {
+    position: relative;
+    padding: 0 2.1rem;
+}
+
+.how-it-works .how-middle {
+    margin-top: 70px;
+}
+
+.how-it-works p.pay-info {
+    font-size: 16px;
+    color: #d8bea5;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.how-it-works h3 {
+    color: #fff
+}
+
+
+/*-----------------------------------  
+Steps
+-----------------------------------*/
+
+.how-it-works p {
+    color: #9c9da5;
+    text-align: center;
+}
+
+.step .icon {
+    position: relative;
+    width: 86px;
+    height: 86px;
+    margin: 10px auto 20px;
+    line-height: 78px;
+    text-align: center;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.step .icon:before {
+    content: attr(data-step);
+    position: absolute;
+    top: -10px;
+    left: 5px;
+    display: block;
+    width: 32px;
+    height: 32px;
+    line-height: 38px;
+    background-color: #f30;
+    border-radius: 50%;
+    font-size: 1.5em;
+    font-family: "Give You Glory", cursive;
+    font-weight: 700;
+    color: #fff;
+}
+
+.step .icon img,
+.step .icon svg {
+    display: inline-block;
+    vertical-align: middle;
+    width: 34px;
+    height: 34px;
+}
+
+.how-it-works .step-2 {
+    padding-top: 20%
+}
+
+.col1:after {
+    position: absolute;
+    content: "";
+    right: -21%;
+    top: 15%;
+    width: 185px;
+    height: 34px;
+    background: url(../img/arrow-big.png) no-repeat;
+}
+
+.col2:after {
+    position: absolute;
+    content: "";
+    right: -16%;
+    top: 11%;
+    width: 175px;
+    height: 34px;
+    background: url(../img/arrow-big-dotted.png) no-repeat;
+}
+
+.how-it-works-solution {
+    margin-bottom: 26px;
+}
+
+@media (max-width: 543px) {
+    .col1:after,
+    .col2:after {
+        display: none
+    }
+}
+
+@media (min-width: 544px) and (max-width: 767px) {
+    .col1:after,
+    .col2:after {
+        display: none
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .col1:after,
+    .col2:after {
+        display: none
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .col1:after,
+    .col2:after {
+        right: -30%;
+    }
+}

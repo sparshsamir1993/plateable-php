@@ -86,7 +86,8 @@ $(function() {
         var $grid = $('.menu-items').isotope({
             // options
             itemSelector: '.menu-item',
-            layoutMode: 'fitRows'
+            layoutMode: 'fitRows',
+            filter: '.veg'
         });
         // filter items on button click
         $('.menu-tags').on('click', 'span', function() {

@@ -42,7 +42,7 @@ if (typeof Object.create !== 'function') {
         //Get the most recent media published by a user.
         getRecentMedia: function(userID) {
             var self = this,
-                getData = '/users/' + userID + '/media/recent/?' + self.accessData.clientID + '&access_token=' + self.accessData.accessToken + '';
+                getData = '/users/self/media/recent/?access_token=' + self.accessData.accessToken + '';
 
             self.fetch(getData).done(function(results) {
                 self.display(results);
@@ -51,10 +51,12 @@ if (typeof Object.create !== 'function') {
 
         //Search for a user by name.
         getUserFeed: function() {
+            
             var self = this,
                 getData = '/users/search?q=' + self.options.query + '&count=' + self.options.max + '&access_token=' + self.accessData.accessToken + '';
 
             self.fetch(getData).done(function(results) {
+                // debugger;
                 if (results.data.length) {
                     // only request media for exact match, otherwise 400 error
                     for (var length = results.data.length, i = 0; i < length; i++) {

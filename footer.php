@@ -1,10 +1,19 @@
 <section class="footer">
     <div class="container">
         <div class="row">
-            <div class="col-md-4 col-sm-12">
-                <h1>About us</h1>
+            <div class="col-md-4 col-sm-12 subscribe footer-subscribe">
+                <!-- <h1>About us</h1>
                 <p>Duis leo justo, condimentum at purus eu,Aenean sed dolor sem. Etiam massa libero, auctor vitae egestas et, accumsan quis nunc.Duis leo justo, condimentum at purus eu, posuere pretium tellus.</p>
-                <!-- <a href="./about.html">Read more &rarr;</a> -->
+                <a href="./about.html">Read more &rarr;</a> -->
+                <h1>subscribe</h1>
+                <form class="form-inline" action="php/subscribe.php" id="invite" method="POST">
+                    <div class="form-group">
+                        <input class="e-mail form-control" name="email" id="address" type="email" placeholder="Your Email Address" required>
+                    </div>
+                    <button type="submit" class="btn btn-default">
+                        <i class="fa fa-angle-right"></i>
+                    </button>
+                </form>
             </div>
             <div class="col-md-4  col-sm-6">
                 <!-- <h1>Recent post</h1>

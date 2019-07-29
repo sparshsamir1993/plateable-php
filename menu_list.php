@@ -1,5 +1,5 @@
 <?php   
-        $menuString = '[{"name":"Butter Chicken","price":"10.99","type":"mains chicken","description":"A delicious preparation of tandoori chicken cooked in creamy tomato sauce"},{"name":"Chicken Curry","price":"10.99","type":"mains chicken","description":"A delicious preparation of tandoori chicken cooked in creamy tomato sauce"},{"name":"Chicken Korma","price":"10.99","type":"mains chicken","description":"Chciken cooked in cream & yogurt sauce and spices"},{"name":"Chicken Saag","price":"10.99","type":"mains chicken","description":"Marinated chicken cooked with mustard greens & spices"},{"name":"Radda Chicken","price":"10.99","type":"mains chicken","description":"Cooked in minced meat with herbs & spices"},{"name":"Karahi Chicken","price":"10.99","type":"mains chicken","description":"Tender chicken lightly cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion, bell pepper with kadhai special"},{"name":"Achari Chicken","price":"10.99","type":"mains chicken","description":"cooked in yogurt tomato sauce with spices"},{"name":"Mutton Saag","price":"10.99","type":"mains mutton","description":"Tender pieces of mutton cooked with mustard greens"},{"name":"Mutton Curry","price":"10.99","type":"mains mutton","description":"Tender pieces of mutton cooked in an aromatic indian sauce"},{"name":"Mutton Radda","price":"10.99","type":"mains mutton","description":"Cooked in minced meat with herbs & spices"},{"name":"Karahi Mutton","price":"10.99","type":"mains mutton","description":"Mutton lightly cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion and bell pepper with kadhai special"},{"name":"Fish Curry","price":"10.99","type":"mains seafood","description":"A delicious dish cooked with fish fillet cooked in onion & tomato sauce"},{"name":"Shrimp Masala","price":"10.99","type":"mains seafood","description":"Shrip sauted in chopped onions & tomatoes, bell pepper & cooked with fresh ginger & garlic"},{"name":"Chicken Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of chicken cooked with exotic indian herbs"},{"name":"Mutton Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of mutton cooked with exotic indian herbs"},{"name":"Dal Makhani or Tadhka","price":"10.99","type":"mains veg","description":"Dal cooked inspices, butter & cream"},{"name":"Channa Masala","price":"10.99","type":"mains veg","description":"Chick peas cooked in indian spices"},{"name":"Saag","price":"10.99","type":"mains veg","description":"Cooked with fresh ginger, garlic tomato & onion"},{"name":"Palak Paneer","price":"10.99","type":"mains veg","description":"Homemade paneer blended with spinach & cooked in indian spices"},{"name":"Shahi Paneer","price":"10.99","type":"mains veg","description":"Homemade paneer cooked in an aromatic cream based sauce"},{"name":"Paneer Tikka Masala","price":"10.99","type":"mains veg","description":"Fresh & soft paneer cooked in an aromatic cream based sauce"},{"name":"Mutter Paneer","price":"10.99","type":"mains veg","description":"Green peas & paneer in indian spices"},{"name":"Karahi Paneer","price":"10.99","type":"mains veg","description":"Paneer cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion & bell pepper with kadai special"},{"name":" Malai Kofta","price":"10.99","type":"mains veg","description":"Stuffed in mince paneer, cooked with our special spices"},{"name":"Veg Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of mutton cooked with exotic indian herbs"},{"name":"Plain Rice","price":"0","type":"sides"},{"name":"Jeera Rice","price":"0","type":"sides"},{"name":"Mix Veg Rice","price":"0","type":"sides"},{"name":"Naan","price":"0","type":"sides"},{"name":"Pop","price":"2","type":"extra"},{"name":"Naan","price":"2","type":"extra"},{"name":"Rice","price":"5.5","type":"extra"}]';
+        $menuString = '[{"name":"Butter Chicken","price":"10.99","type":"mains chicken","description":"A delicious preparation of tandoori chicken cooked in creamy tomato sauce"},{"name":"Chicken Curry","price":"10.99","type":"mains chicken","description":"A delicious preparation of tandoori chicken cooked in creamy tomato sauce"},{"name":"Chicken Korma","price":"10.99","type":"mains chicken","description":"Chciken cooked in cream & yogurt sauce and spices"},{"name":"Chicken Saag","price":"10.99","type":"mains chicken","description":"Marinated chicken cooked with mustard greens & spices"},{"name":"Radda Chicken","price":"10.99","type":"mains chicken","description":"Cooked in minced meat with herbs & spices"},{"name":"Karahi Chicken","price":"10.99","type":"mains chicken","description":"Tender chicken lightly cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion, bell pepper with kadhai special"},{"name":"Achari Chicken","price":"10.99","type":"mains chicken","description":"cooked in yogurt tomato sauce with spices"},{"name":"Mutton Saag","price":"10.99","type":"mains mutton","description":"Tender pieces of mutton cooked with mustard greens"},{"name":"Mutton Curry","price":"10.99","type":"mains mutton","description":"Tender pieces of mutton cooked in an aromatic indian sauce"},{"name":"Mutton Radda","price":"10.99","type":"mains mutton","description":"Cooked in minced meat with herbs & spices"},{"name":"Karahi Mutton","price":"10.99","type":"mains mutton","description":"Mutton lightly cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion and bell pepper with kadhai special"},{"name":"Fish Curry","price":"10.99","type":"mains seafood","description":"A delicious dish cooked with fish fillet cooked in onion & tomato sauce"},{"name":"Shrimp Masala","price":"10.99","type":"mains seafood","description":"Shrip sauted in chopped onions & tomatoes, bell pepper & cooked with fresh ginger & garlic"},{"name":"Chicken Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of chicken cooked with exotic indian herbs"},{"name":"Mutton Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of mutton cooked with exotic indian herbs"},{"name":"Dal Makhani or Tadhka","price":"10.99","type":"mains veg","description":"Dal cooked inspices, butter & cream"},{"name":"Channa Masala","price":"10.99","type":"mains veg","description":"Chick peas cooked in indian spices"},{"name":"Saag","price":"10.99","type":"mains veg","description":"Cooked with fresh ginger, garlic tomato & onion"},{"name":"Palak Paneer","price":"10.99","type":"mains veg","description":"Homemade paneer blended with spinach & cooked in indian spices"},{"name":"Shahi Paneer","price":"10.99","type":"mains veg","description":"Homemade paneer cooked in an aromatic cream based sauce"},{"name":"Paneer Tikka Masala","price":"10.99","type":"mains veg","description":"Fresh & soft paneer cooked in an aromatic cream based sauce"},{"name":"Mutter Paneer","price":"10.99","type":"mains veg","description":"Green peas & paneer in indian spices"},{"name":"Karahi Paneer","price":"10.99","type":"mains veg","description":"Paneer cooked with fresh ginger, garlic, cilantro, diced tomatoes, onion & bell pepper with kadai special"},{"name":" Malai Kofta","price":"10.99","type":"mains veg","description":"Stuffed in mince paneer, cooked with our special spices"},{"name":"Veg Biriyani","price":"10.99","type":"mains biriyani","description":"Rice and tender pieces of mutton cooked with exotic indian herbs"},{"name":"Plain Rice","price":"0","type":"sides"},{"name":"Jeera Rice","price":"0","type":"sides"},{"name":"Mix Veg Rice","price":"0","type":"sides"},{"name":"Naan","price":"0","type":"extra sides"},{"name":"Pop","price":"2","type":"extra"},{"name":"Rice","price":"5.5","type":"extra"}]';
         $menuJson = json_decode($menuString);
         $mains = "";
         foreach ($menuJson as $key => $value) {
@@ -7,8 +7,8 @@
             $template = '<div class="menu-item col-sm-6 col-xs-12 '.$value->type.'">
                             <div class="clearfix menu-wrapper">
                                 <h4>'.$value->name.'</h4>
-                                <span class="price">'.$value->price.'</span>
-                                <div class="dotted-bg"></div>
+                                <span class="price"></span>
+                                
                             </div>
                             <p>'.$value->description.'</p>
                         </div>';
@@ -62,157 +62,7 @@
 
         <div class="main-wrapper">
             <!-- Navigation-->
-            <nav class="navbar navbar-fixed-top">
-                <div class="container">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="./index.php">
-                            <!-- <img src="img/nav-logo.png" alt="nav-logo"> -->
-                            <span>Takeout-in</span>
-                        </a>
-                    </div>
-                    <div id="navbar" class="navbar-collapse collapse">
-                        <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="menu_list.php">Menu</a></li>
-                            <!-- <li class="dropdown">
-                                <a href="./index.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./index.html">Home - Image</a></li>
-                                    <li><a href="./index_slider.html">Home - Header Slider</a></li>
-                                    <li><a href="./index_video.html">Home - Video Background</a></li>
-                                    <li><a href="./index_parallax.html">Home - Parallax</a></li>
-                                    <li><a href="./index_animation.html">Home - Scroll Animation</a></li>
-                                </ul>
-                            </li> -->
-                            <!-- <li class="dropdown">
-                                <a href="./menu_all.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./menu_list.html">Menu - List</a></li>
-                                    <li><a href="./menu_overlay.html">Menu - Overlay</a></li>
-                                    <li><a href="./menu_tile.html">Menu - Tile</a></li>
-                                    <li><a href="./menu_grid.html">Menu - Grid</a></li>
-                                    <li><a href="./menu_all.html">Menu All</a></li>
-                                </ul>
-                            </li> -->
-                            <!-- <li class="dropdown">
-                                <a href="./reservation.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Reservation<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./reservation.html">Reservation</a></li>
-                                    <li><a href="./reservation-ot.html">Reservation - Opentable</a></li>
-                                </ul>
-                            </li> -->
-                            <!-- <li class="dropdown">
-                                <a href="./about.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pages<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./about.html">About</a></li>
-                                    <li><a href="./gallery.html">Gallery</a></li>
-                                    <li><a href="./elements.html">Shortcodes</a></li>
-                                    <li><a href="./shop_account.html">Login / Signup</a></li>
-                                    <li><a href="./404.html">404 Page</a></li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="./recipe.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Recipe<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./recipe.html">Recipe - 2Col</a></li>
-                                    <li><a href="./recipe_3col.html">Recipe - 3Col</a></li>
-                                    <li><a href="./recipe_4col.html">Recipe - 4Col</a></li>
-                                    <li><a href="./recipe_masonry.html">Recipe - Masonry</a></li>
-                                    <li>
-                                        <a href="./recipe_detail-image.html">Recipe - Single <span class="caret-right"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="./recipe_detail-image.html">Recipe - Image</a></li>
-                                            <li><a href="./recipe_detail-slider.html">Recipe - Gallery</a></li>
-                                            <li><a href="./recipe_detail-video.html">Recipe - Video</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="./blog_right_sidebar.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Blog<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./blog_right_sidebar.html">Blog - Right Sidebar</a></li>
-                                    <li><a href="./blog_left_sidebar.html">Blog - Left Sidebar</a></li>
-                                    <li><a href="./blog_fullwidth.html">Blog - Fullwidth</a></li>
-                                    <li><a href="./blog_masonry.html">Blog - Masonry</a></li>
-                                    <li>
-                                        <a href="./blog_single_image.html">Blog - Single <span class="caret-right"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="./blog_single_image.html">Blog - Image</a></li>
-                                            <li><a href="./blog_single_slider.html">Blog - Gallery</a></li>
-                                            <li><a href="./blog_single_video.html">Blog - Video</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="dropdown">
-                                <a href="./shop_fullwidth.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Shop<span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="./shop_fullwidth.html">Shop - Full</a></li>
-                                    <li><a href="./shop_left_sidebar.html">Shop - Left Sidebar</a></li>
-                                    <li><a href="./shop_right_sidebar.html">Shop - Right Sidebar</a></li>
-                                    <li>
-                                        <a href="./shop_single_full.html">Shop - Single <span class="caret-right"></span></a>
-                                        <ul class="dropdown-menu">
-                                            <li><a href="./shop_single_full.html">Shop - Full</a></li>
-                                            <li><a href="./shop_single_left.html">Shop - Left Sidebar</a></li>
-                                            <li><a href="./shop_single_right.html">Shop - Right Sidebar</a></li>
-                                        </ul>
-                                    </li>
-                                    <li><a href="./shop_cart.html">Shop - Cart</a></li>
-                                    <li><a href="./shop_checkout.html">Shop - Checkout</a></li>
-                                    <li><a href="./shop_account.html">Shop - Account</a></li>
-                                    <li><a href="./shop_account_detail.html">Shop - Account Detail</a></li>
-                                </ul>
-                            </li> -->
-                            <li><a href="./contact.php">Contact</a></li>
-                            <!-- <li class="dropdown">
-                                <a class="css-pointer dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-shopping-cart fsc pull-left"></i><span class="cart-number">3</span><span class="caret"></span></a>
-                                <div class="cart-content dropdown-menu">
-                                    <div class="cart-title">
-                                        <h4>Shopping Cart</h4>
-                                    </div>
-                                    <div class="cart-items">
-                                        <div class="cart-item clearfix">
-                                            <div class="cart-item-image">
-                                                <a href="./shop_single_full.html"><img src="img/cart-img1.jpg" alt="Breakfast with coffee"></a>
-                                            </div>
-                                            <div class="cart-item-desc">
-                                                <a href="./shop_single_full.html">Breakfast with coffee</a>
-                                                <span class="cart-item-price">$19.99</span>
-                                                <span class="cart-item-quantity">x 2</span>
-                                                <i class="fa fa-times ci-close"></i>
-                                            </div>
-                                        </div>
-                                        <div class="cart-item clearfix">
-                                            <div class="cart-item-image">
-                                                <a href="./shop_single_full.html"><img src="img/cart-img2.jpg" alt="Chicken stew"></a>
-                                            </div>
-                                            <div class="cart-item-desc">
-                                                <a href="./shop_single_full.html">Chicken stew</a>
-                                                <span class="cart-item-price">$24.99</span>
-                                                <span class="cart-item-quantity">x 3</span>
-                                                <i class="fa fa-times ci-close"></i>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="cart-action clearfix">
-                                        <span class="pull-left checkout-price">$ 114.95</span>
-                                        <a class="btn btn-default pull-right" href="./shop_cart.html">View Cart</a>
-                                    </div>
-                                </div>
-                            </li> -->
-                        </ul>
-                    </div>
-                    <!--/.navbar-collapse -->
-                </div>
-            </nav>
+            <?php include("navbar.php") ?>
 
             <!-- Page Header -->
             <section class="page_header">
@@ -241,8 +91,8 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="menu-tags">
-                                    <span data-filter="*" class="tagsort-active">All</span>
-                                    <span data-filter=".veg">mains-veg</span>
+                                    <!-- <span data-filter="*" >All</span> -->
+                                    <span data-filter=".veg" class="tagsort-active">mains-veg</span>
                                     <span data-filter=".chicken">mains-chicken</span>
                                     <span data-filter=".mutton">mains-mutton</span>
                                     <span data-filter=".biriyani">mains-biriyani</span>
@@ -411,7 +261,7 @@
                 </div>
             </section>
             <!-- subscribe -->
-            <section class="subscribe">
+            <!-- <section class="subscribe">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12">
@@ -429,8 +279,24 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
+            <section class="instagram">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="page-header wow fadeInDown">
+                                <h1><small>Want us to add anything to the menu?</small></h1>
+                                <div class="flex-center mb-20">
+                                    <a class="btn btn-default btn-lg mr-20" href="./contact.php" role="button">Contact us</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
+                <!-- instafeed div-->
+                <!-- Change your settings in the data- attributes (See documentation for help) -->
+            </section>
             <!-- Footer-->
             <?php include("footer.php"); ?>
         </div>
