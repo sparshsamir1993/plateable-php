@@ -53,7 +53,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a class="navbar-brand" href="./index.php">
-                            <!-- <img src="img/nav-logo.png" alt="nav-logo"> -->
+                            <!-- <img src="img/logo-truck.svg" alt="nav-logo"> -->
                             <span>Takeout-in</span>
                         </a>
                     </div>

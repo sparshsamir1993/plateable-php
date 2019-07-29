@@ -27,13 +27,13 @@
             <div class="col-md-4  col-sm-6">
                 <h1>Reach us</h1>
                 <div class="footer-social-icons">
-                    <a href="http://www.facebook.com">
+                    <a target="_blank" href="https://www.facebook.com/Take-Out-In-628398887665086/?modal=admin_todo_tour">
                         <i class="fa fa-facebook-square"></i>
                     </a>
                     <!-- <a href="http://www.twitter.com">
                         <i class="fa fa-twitter"></i>
                     </a> -->
-                    <a href="http://plus.google.com">
+                    <a target="_blank" href="https://www.instagram.com/takeout.in/?hl=en">
                         <i class="fa fa-instagram"></i>
                     </a>
                     <!-- <a href="http://www.youtube.com">

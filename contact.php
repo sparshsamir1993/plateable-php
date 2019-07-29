@@ -230,10 +230,10 @@
 
                                 <h3 class="text-left no-margin-top">Follow Us</h3>
                                 <div class="contact-social">
-                                    <a href="http://www.facebook.com"><i class="fa fa-facebook"></i></a>
+                                    <a target="_blank" href="https://www.facebook.com/Take-Out-In-628398887665086/?modal=admin_todo_tour"><i class="fa fa-facebook"></i></a>
                                     <!-- <a href="http://www.twitter.com"><i class="fa fa-twitter"></i></a> -->
                                     <!-- <a href="http://www.dribbble.com"><i class="fa fa-dribbble"></i></a> -->
-                                    <a href="http://www.instagram.com"><i class="fa fa-instagram"></i></a>
+                                    <a target="_blank" href="https://www.instagram.com/takeout.in/?hl=en"><i class="fa fa-instagram"></i></a>
                                 </div>
                             </div>
                             <div class="col-md-6">
