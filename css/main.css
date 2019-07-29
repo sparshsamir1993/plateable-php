@@ -96,6 +96,9 @@ h6,
     text-align: center;
     font-weight: 800;
 }
+.w-200{
+    width: 200px;
+}
 .flex-center{
     display: flex;
     flex-direction: row;
@@ -3739,6 +3742,16 @@ article p {
       --------------------------- */
 
 @media (max-width: 480px) {
+    .mt-20-mobile{
+        margin-top: 20px;
+        
+    }
+    .no-margin-right-mob{
+        margin-right: 0;
+    }
+    .mr-20{
+        margin-right: 0;
+    }
     .special-slider .slider-content .btn {
         margin: 17px 5px 20px 0px;
         font-weight: 700;

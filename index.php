@@ -476,8 +476,8 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="menu-btn">
-                                    <a class="btn btn-default btn-lg mr-20" href="./menu_list.php" role="button">Lunchbox</a>
-                                    <a class="btn btn-default btn-lg" href="./catering.php" role="button">Catering</a>
+                                    <a class="btn btn-default btn-lg mr-20 w-200" href="./menu_list.php" role="button">Lunchbox</a>
+                                    <a class="btn mt-20-mobile btn-default btn-lg  w-200" href="./catering.php" role="button">Catering</a>
                                 </div>
                             </div>
                         </div>
@@ -589,7 +589,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <h1>Subscribe</h1>
-                                <p>Get updates about new dishes and upcoming events</p>
+                                <p>Get updates about new dishes and upcoming deals</p>
                                 <form class="form-inline" action="php/subscribe.php" id="invite" method="POST">
                                     <div class="form-group">
                                         <input class="e-mail form-control" name="email" id="address" type="email" placeholder="Your Email Address" required>
