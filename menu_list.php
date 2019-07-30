@@ -33,7 +33,7 @@
     <link rel="shortcut icon" href="img/favicon.ico">
 
     <!-- Responsive Tag -->
-    <meta name="viewport" content="width=device-width">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- CSS Files -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -201,7 +201,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="page-header wow fadeInDown">
-                                <h1 class="white">Order Now<small>Our service makes us the bes in town</small></h1>
+                                <h1 class="white">Order Now<small>Our service makes us the best in town</small></h1>
                             </div>
                         </div>
                     </div>
