@@ -3745,6 +3745,9 @@ article p {
     .mt-20-mobile{
         margin-top: 20px;   
     }
+    .w-1200{
+        width: auto;
+    }
     .how-it-works .step-2{
         padding-top: 0 !important;
     }

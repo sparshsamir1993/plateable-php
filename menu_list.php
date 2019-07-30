@@ -92,10 +92,10 @@
                             <div class="col-md-12">
                                 <div class="menu-tags">
                                     <!-- <span data-filter="*" >All</span> -->
-                                    <span data-filter=".veg" class="tagsort-active">mains-veg</span>
-                                    <span data-filter=".chicken">mains-chicken</span>
-                                    <span data-filter=".mutton">mains-mutton</span>
-                                    <span data-filter=".biriyani">mains-biriyani</span>
+                                    <span data-filter=".veg" class="tagsort-active">veg</span>
+                                    <span data-filter=".chicken">chicken</span>
+                                    <span data-filter=".mutton">mutton</span>
+                                    <span data-filter=".biriyani">biriyani</span>
                                     <span data-filter=".sides">sides</span>
                                     <span data-filter=".extra">Extras</span>
 
