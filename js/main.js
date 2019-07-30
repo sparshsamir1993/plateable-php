@@ -87,7 +87,7 @@ $(function() {
             // options
             itemSelector: '.menu-item',
             layoutMode: 'fitRows',
-            filter: '.veg'
+            filter: '.chicken'
         });
         // filter items on button click
         $('.menu-tags').on('click', 'span', function() {
