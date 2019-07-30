@@ -27,7 +27,7 @@
                 </li> -->
                 <!-- <li><a href="menu_list.php">Menu</a></li> -->
                 <li class="dropdown">
-                    <a href="menu_list.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu<span class="caret"></span></a>
+                    <a href="#menu" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Menu<span class="caret"></span></a>
                     <ul class="dropdown-menu">
                         <li><a href="./menu_list.php">Lunchbox</a></li>
                         <li><a href="./catering.php">Catering</a></li>

@@ -9,7 +9,9 @@ Copyright © All rights Reserved
 Surjith S M / @surjithctly
 
 */
-
+$(document).ready(function(){
+    console.log("hello");
+})
 $(function() {
 
     "use strict";
