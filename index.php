@@ -659,7 +659,7 @@
                             <div class="page-header wow fadeInDown">
                                 <h1><small>Want us to add anything to the menu?</small></h1>
                                 <div class="flex-center mb-20">
-                                    <!-- <a class="btn btn-default btn-lg mr-20" href="./contact.php" role="button">Contact us</a> -->
+                                    <a class="btn btn-default btn-lg mr-20" href="./contact.php" role="button">Contact us</a>
                                 </div>
                             </div>
                         </div>
