@@ -55,7 +55,7 @@
                         </a> -->
                     </div>
                     <h1>Take-out in</h1>
-                    <h2>We cater to your needs</h2>
+                    <h2>Cater to your needs</h2>
                 </div>
                 <div class="scroll-down">
                     <a href="#about">
