@@ -8,7 +8,7 @@
                 <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="./index.php">
-                <!-- <img src="img/logo-truck.svg" alt="nav-logo"> -->
+                <!-- <img src="img/logo-truck-white.svg" alt="nav-logo"> -->
                 <span>Take-out in</span>
             </a>
         </div>
