@@ -326,6 +326,16 @@
     <script src="js/vendor/mc/jquery.ketchup.all.min.js"></script>
     <script src="js/vendor/mc/main.js"></script>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-145082421-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-145082421-1');
+    </script>
+
 </body>
 
 </html>
