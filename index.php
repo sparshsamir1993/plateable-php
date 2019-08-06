@@ -616,12 +616,13 @@
                                             <p class="quote-author">Saatvik Walia, <span>Waterloo</span></p>
                                             
                                         </li>
-                                        <!-- <li>
-                                            <img src="img/quote.png" alt="quote">
-                                            <p class="quote-body">You might not find dragon meat on the menu, but you’ll find pretty much anything else that walks, swims or flies, cooked up in more ways than there are people in the Guangdong province. This Midtown mainstay has a 20-year history of delivering mouth-watering and Cantonese style chow.</p>
-                                            <p class="quote-author">Gemma Arterton, <span>Bay Area</span></p>
-                                        </li>
                                         <li>
+                                            <img src="img/quote.png" alt="quote">
+                                            <p class="quote-body">One taste of the Palak Paneer and I knew I was onto something good! The spinach was finely cut, the sauce creamy, and the paneer was the freshest paneer I’ve ever tasted.</p>
+                                            <img src="img/quote.png" style="transform: rotateX(180deg);" alt="quote">
+                                            <p class="quote-author">Kash, <span>Waterloo</span></p>
+                                        </li>
+                                        <!-- <li>
                                             <img src="img/quote.png" alt="quote">
                                             <p class="quote-body">This NYC historical landmark in the heart of the Theatre District has been serving up suds and down home pub food since 1892, surviving prohibition by renting the front of its then Rockefeller Center façade to Greek florists, while the Hurley brothers ran a speak-easy in back.</p>
                                             <p class="quote-author">Zachary Burton, <span>Sanfransisco</span></p>
